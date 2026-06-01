@@ -1,0 +1,6 @@
+{
+  "name": "Student Tools Hub",
+  "description": "High-traffic student tools platform focused on calculators and converters for Indian students. Optimized for SEO, speed, and clean responsiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
